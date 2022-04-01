@@ -5,9 +5,17 @@ body
     font-family: Arial;
     font-size: 16px;
 }
+#cabecera{
+    background:#33a ;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, .75  );
+    color: white;
+    font-weight: bold;
+    padding: .5em;
+}
+
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
